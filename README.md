@@ -1,3 +1,3 @@
 # jogodavelha
 criado em unity
-Os arquvos são do diretório Assets.
+Os arquivos são do diretório Assets.
